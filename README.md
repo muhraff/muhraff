@@ -1,3 +1,6 @@
+
+[![HitCount](http://hits.dwyl.com/muhraff/muhraff.svg)](http://hits.dwyl.com/muhraff/muhraff)
+
 😄 Muhammad Rafi
 
 🌱 Melbourne, Australia
