@@ -1,5 +1,7 @@
 😄 Muhammad Rafi
+
 🌱 Melbourne, Australia
+
 🔭 Front End Developer
 
 
@@ -9,7 +11,8 @@ A seasoned and creative frontend developer with 8+ years of experience leveragin
 
 ## Key skills
 
-💬 `Html, CSS, JavaScript, React, Redux, Shopify, Wordpress, Laravel, Photoshop`. 
+💬 `Html, CSS, JavaScript, React, Redux, Shopify, Wordpress, Laravel, Photoshop`.
+
 📖 ` Node / Express`
 
 <p>
