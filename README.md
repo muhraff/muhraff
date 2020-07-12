@@ -1,10 +1,16 @@
-### Hi there 👋
+😄 Muhammad Rafi
+🌱 Melbourne, Australia
+🔭 Front End Developer
 
-🔭 **Front End Developer**
+
+### Hi there 👋 
 
 A seasoned and creative frontend developer with 8+ years of experience leveraging CSS and JavaScript frameworks to build web & mobile applications, and interactive features that drive business growth and improve UX. I have a strong focus on users goals and profound passion to reduce the complexities with flair of design and my delicate and careful nature ensures high quality sites delivery.
 
-## Skill set
+## Key skills
+
+💬 `Html, CSS, JavaScript, React, Redux, Shopify, Wordpress, Laravel, Photoshop`. 
+📖 ` Node / Express`
 
 <p>
   <img src="https://img.shields.io/badge/Html-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff7851" /> 
