@@ -1,11 +1,7 @@
 
-[![HitCount](http://hits.dwyl.com/muhraff/muhraff.svg)](http://hits.dwyl.com/muhraff/muhraff)
+## 🔭 Front End Developer [![HitCount](http://hits.dwyl.com/muhraff/muhraff.svg)](http://hits.dwyl.com/muhraff/muhraff)
 
-😄 Muhammad Rafi
-
-🌱 Melbourne, Australia
-
-🔭 Front End Developer
+` 😄 Muhammad Rafi` |  `🌱 Melbourne, Australia` | <img src="https://raw.githubusercontent.com/saiemsaeed/saiemsaeed/master/linkedin-icon.png" width="15" height="15" alt="html logo"/> `linkedin.com/in/muhammedrafi/`
 
 
 ### Hi there 👋 
