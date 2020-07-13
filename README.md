@@ -4,9 +4,15 @@
 ` 😄 Muhammad Rafi` |  `🌱 Melbourne, Australia` | <img src="https://raw.githubusercontent.com/saiemsaeed/saiemsaeed/master/linkedin-icon.png" width="15" height="15" alt="html logo"/> `linkedin.com/in/muhammedrafi/`
 
 
+
 ### Hi there 👋 
 
+
+
 A seasoned and creative frontend developer with 8+ years of experience leveraging CSS and JavaScript frameworks to build web & mobile applications, and interactive features that drive business growth and improve UX. I have a strong focus on users goals and profound passion to reduce the complexities with flair of design and my delicate and careful nature ensures high quality sites delivery.
+
+
+ 
 
 ## Key skills
 
@@ -74,6 +80,9 @@ A seasoned and creative frontend developer with 8+ years of experience leveragin
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" class="rounded-1 mr-3" width="64" height="64" alt="wordpress">
 
 
+Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=muhraff.visitor-badge)](https://github.com/muhraff)
+
+Thank you 🙏 😊  
 
 <!--
 **muhraff/muhraff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
