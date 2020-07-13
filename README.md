@@ -83,7 +83,7 @@ A seasoned and creative frontend developer with 8+ years of experience leveragin
 
 
 ### I am really glad to see you here !
-Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=muhraff.visitor-badge)](https://github.com/muhraff) <br>
+Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=muhraff.visitor-badge)](https://github.com/muhraff) since i added this profile <br>
 The green dots on my [**GitHub** profile](https://github.com/muhraff=repositories) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
 
 Thank you 🙏 😊  
