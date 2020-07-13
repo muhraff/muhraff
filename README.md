@@ -80,7 +80,11 @@ A seasoned and creative frontend developer with 8+ years of experience leveragin
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" class="rounded-1 mr-3" width="64" height="64" alt="wordpress">
 
 
-Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=muhraff.visitor-badge)](https://github.com/muhraff)
+
+
+### I am really glad to see you here !
+Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=muhraff.visitor-badge)](https://github.com/muhraff) <br>
+The green dots on my [**GitHub** profile](https://github.com/muhraff=repositories) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
 
 Thank you 🙏 😊  
 
