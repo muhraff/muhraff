@@ -1,5 +1,5 @@
 
-## 🔭 Front End Developer [![HitCount](http://hits.dwyl.com/muhraff/muhraff.svg)](http://hits.dwyl.com/muhraff/muhraff)
+## 🔭 Front End Developer
 
 ` 😄 Muhammad Rafi` |  `🌱 Melbourne, Australia` | <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `linkedin.com/in/muhammedrafi/`
 
